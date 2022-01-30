@@ -31,7 +31,8 @@ Link to presentation  :[https://github.com/alihakimtaskiran/2022_qutech_challeng
 
 Link to screenshots of results : [https://github.com/alihakimtaskiran/2022_qutech_challenge/tree/main/Screenshots](___)
 
-Personal Experiences : 
+Personal Experiences :
+
 Ali Hakim : 
 Having attended the hackathon, I have pushed myself hard work. Then I realized that there is no capacity of doing something. As I push it, it is enhanced itself. After learning that, I will learn more, produce more.
 
