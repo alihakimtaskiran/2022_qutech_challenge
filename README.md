@@ -1,18 +1,19 @@
 ## Description of the Project:
-We implement an advance Quantum Key Distribution Protocol : BB22 Protocol.
-In this protocol, 3 parties sender(Alice), Reciever(Bob) and a computer(Quantum Computer) take part. This protocol can detect the presence of an eavesdropper in the quantum channel. 
-Working:
-    1. Alice prepares a state |+> and sends it to bob.
-    2. Bob choses a random number either 1 or 0.
-    3. 
-        1. If bob picks the random number 0, then he makes the measurement in hadamard basis. basis.
-       2.  If  he picks 1, then he will make the measurement in computational basis.
-    4. Bob sends his measurement basis for each state to Alice.
-    5. Alice correlates the bob’s measurement to determine the presense of eavesdropper, if the correlation value id other than zero than an eavesdropper is detected in the qauntum channel.
-    6. If the correlation value is zero then channel is safe and Alice sends the key.
+We implement an advance Quantum Key Distribution Protocol : BB22 Protocol.</br>
+In this protocol, 3 parties sender(Alice), Reciever(Bob) and a computer(Quantum Computer) take part. This protocol can detect the presence of an eavesdropper in the quantum channel. </br>
+Working:</br>
+    1. Alice prepares a state |+> and sends it to bob.</br>
+    2. Bob choses a random number either 1 or 0.</br>
+    3. </br>
+        3(a). If bob picks the random number 0, then he makes the measurement in hadamard basis.</br>
+        3(b). If  he picks 1, then he will make the measurement in computational basis.</br>
+    4. Bob sends his measurement basis for each state to Alice.</br>
+    5. Alice correlates the bob’s measurement to determine the presense of eavesdropper, if the correlation value id other than zero than an eavesdropper is detected in the qauntum channel.</br>
+    6. If the correlation value is zero then channel is safe and Alice sends the key.</br>
+</br>
+</br>
 
-
-Instructions for running the project
+<b>Instructions for running the project</b></br>
 
 We have created a GUI to perform this entire operation, The first Gui windows gives us the choice of playing the role of either sender or reciever.
 
@@ -31,7 +32,7 @@ Link to presentation  :[https://github.com/alihakimtaskiran/2022_qutech_challeng
 
 Link to screenshots of results : [https://github.com/alihakimtaskiran/2022_qutech_challenge/tree/main/Screenshots](___)
 
-Personal Experiences :
+<b>Personal Experiences :</b>
 
 Ali Hakim : 
 Having attended the hackathon, I have pushed myself hard work. Then I realized that there is no capacity of doing something. As I push it, it is enhanced itself. After learning that, I will learn more, produce more.
